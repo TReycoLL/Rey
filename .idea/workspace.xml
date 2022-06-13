@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a00e33e-9411-49ff-a663-16e455912481" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gupao/springbootdemo/controller/K8SController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gupao/springbootdemo/controller/K8SController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +64,9 @@
       <workItem from="1573898029721" duration="1414000" />
       <workItem from="1573900305263" duration="1004000" />
       <workItem from="1573913694940" duration="1264000" />
-      <workItem from="1654782101546" duration="640000" />
+      <workItem from="1654782101546" duration="1266000" />
+      <workItem from="1654822422192" duration="54000" />
+      <workItem from="1655124059474" duration="668000" />
     </task>
     <servers />
   </component>
